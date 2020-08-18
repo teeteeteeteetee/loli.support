@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'JMHTypewriterdry-Thin';
+  src: url('JMHTypewriterdry-Thin.eot?#iefix') format('embedded-opentype'),  url('JMHTypewriterdry-Thin.otf')  format('opentype'),
+	     url('JMHTypewriterdry-Thin.woff') format('woff'), url('JMHTypewriterdry-Thin.ttf')  format('truetype'), url('JMHTypewriterdry-Thin.svg#JMHTypewriterdry-Thin') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
