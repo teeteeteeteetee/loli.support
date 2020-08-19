@@ -13,6 +13,23 @@ a:hover {
     text-decoration: none;
 }
 
+canvas {
+    position: absolute;
+    width: 98%;
+    height: 100%;
+}
+
+#card {
+    background-color: black;
+    opacity: 1;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    box-shadow: 0px 2px 2px black;
+}
+
+
 
 #graything {
     width: 100%;
@@ -43,6 +60,16 @@ a:hover {
 
 #navbar {
     position:absolute;
+}
+
+#menu {
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    color:white;
+    font-family: JMHTypewriterdry-Thin;
 }
 
 @font-face {
