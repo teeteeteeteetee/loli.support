@@ -72,6 +72,10 @@ canvas {
     font-family: JMHTypewriterdry-Thin;
 }
 
+#menu a,p {
+    font-size: 25px !important;
+}
+
 @font-face {
     font-family: 'CatCafe';
     src: 
